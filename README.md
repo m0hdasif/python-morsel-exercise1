@@ -22,3 +22,5 @@ Python 3
     >>> mh.simulate_games(1000, True, 1000)
     'winning percentage: 99.30%'
     ```
+
+2. [Python Morsels](https://github.com/stefmolin/random-fun/tree/master/python_morsels) -- my solutions to python morsels exercises.
